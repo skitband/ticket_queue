@@ -18,4 +18,4 @@ goto to server folder
 Runs the backend server in the development mode.
 Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
 
-**Note: use the ticket_queue.sql zip file for the database. import to your mysql**
+**Note: import the ticket_queue.sql file for the database. import to your mysql**
