@@ -24,6 +24,9 @@ Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
 
 **Note: use the ticket_queue.sql file for the database. import to your mysql**
 
+to access the counter management.\
+Open [http://localhost:3000/admin](http://localhost:3000/admin) to view it in the browser.
+
 ---
 React.
 Express.
